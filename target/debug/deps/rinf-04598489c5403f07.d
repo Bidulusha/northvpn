@@ -1,0 +1,13 @@
+/Users/vadim/Projects/flutter/north_proxy/target/debug/deps/rinf-04598489c5403f07.d: /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/lib.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/channel.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/error.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/macros.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/shutdown.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/signal_trait.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/traits.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface_os.rs
+
+/Users/vadim/Projects/flutter/north_proxy/target/debug/deps/librinf-04598489c5403f07.rmeta: /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/lib.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/channel.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/error.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/macros.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/shutdown.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/signal_trait.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/traits.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface.rs /Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface_os.rs
+
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/lib.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/channel.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/error.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/macros.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/shutdown.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/signal_trait.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/traits.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface.rs:
+/Users/vadim/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rinf-8.10.0/src/interface_os.rs:
