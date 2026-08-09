@@ -55,7 +55,7 @@ class _MainPageViewState extends State<MainPageView> {
             child: Row(
               textDirection: TextDirection.ltr,
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
+              children: <Widget>[
                 Row(
                   textDirection: TextDirection.ltr,
                   children: [
@@ -75,7 +75,7 @@ class _MainPageViewState extends State<MainPageView> {
                     Column(
                       textDirection: TextDirection.ltr,
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                      children: [
+                      children: <Widget>[
                         const Text("ТРАФИК", textDirection: TextDirection.ltr, style: TextStyle(color: Color(0xff747B89))),
                         Text("Отправка: -", textDirection: TextDirection.ltr, style: TextStyle(color: Colors.black)),
                         Text("Загрузка: -", textDirection: TextDirection.ltr, style: TextStyle(color: Colors.black)),
@@ -92,13 +92,13 @@ class _MainPageViewState extends State<MainPageView> {
           SizedBox(height: 30,),
           RollUpSection(
             "Подписки",
-            child: SizedBox(height: 60,)
+            child: SizedBox()
           ),
 
           SizedBox(height: 30,),
           RollUpSection(
             "Конфигурации",
-            child: SizedBox(height: 90,)
+            child: SizedBox()
           )
         ],
       )

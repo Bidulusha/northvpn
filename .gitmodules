@@ -1,0 +1,3 @@
+[submodule "northvpn-core"]
+	path = northvpn-core
+	url = https://github.com/Bidulusha/northvpn-core
